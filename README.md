@@ -1,6 +1,6 @@
 
 
-# proclear
+# conclean
 
 A lightweight and powerful cross-platform console clearer for Node.js. `conclean` allows you to clear the terminal screen and optionally the scrollback buffer, ensuring a clean slate for your terminal output.
 
