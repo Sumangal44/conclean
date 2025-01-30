@@ -1,0 +1,46 @@
+{
+	"name": "conclean",
+	"version": "0.2.4",
+	"type": "module",
+	"author": {
+		"name": "sumangal karan",
+		"email": "sumnagalkaran44@gmail.com",
+		"url": "https://github.com/sumnagal44"
+	},
+	"main": "index.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Sumangal44/conclean.git"
+	},
+	"bugs": {
+		"url": "https://github.com/sumangal44/conclean/issues"
+	},
+	"license": "MIT",
+	"files": [
+		"index.js"
+	],
+	"homepage": "https://github.com/sumangal44/conclean#readme",
+	"keywords": [
+		"conclean",
+		"concleaner",
+		"console cleaner",
+		"console clear",
+		"console clear in windows",
+		"console clear in linux",
+		"console clear in mac os",
+		"console clear in all os",
+		"clear",
+		"clear console",
+		"console",
+		"clear console windows",
+		"clear console in windows",
+		"clear console in linux",
+		"clear console in mac os",
+		"sumangal karan",
+		"sumangal44"
+	],
+	"description": "❤️👨‍🏭A simple package to clear console in windows, linux and mac os.🚀❤️👨‍🏭"
+}
